@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    user: fijez
+    password: forAccenture
+    url: jdbc:h2:tcp://localhost/~/CityRentalSystem

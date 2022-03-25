@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "datasource.login",
+      "type": "java.lang.String",
+      "description": "Description for datasource.login."
+  }
+] }
